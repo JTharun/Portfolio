@@ -364,6 +364,32 @@ img {
   transform: scale(1.1);
 }
 
+/* ===== PROJECTS ===== */
+.Projects__input {
+  width: 100%;
+  font-size: var(--normal-font-size);
+  font-weight: var(--font-semi);
+  padding: 1rem;
+  border-radius: .5rem;
+  border: 1.5px solid var(--second-color);
+  outline: none;
+  margin-bottom: var(--mb-4);
+}
+
+
+/* ===== ACHIEVEMENT =====*/
+.Achievement__input {
+  width: 100%;
+  font-size: var(--normal-font-size);
+  font-weight: var(--font-semi);
+  padding: 1rem;
+  border-radius: .5rem;
+  border: 1.5px solid var(--second-color);
+  outline: none;
+  margin-bottom: var(--mb-4);
+}
+
+
 /* ===== CONTACT =====*/
 .contact__input {
   width: 100%;
